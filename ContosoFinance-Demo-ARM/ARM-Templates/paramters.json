@@ -6,19 +6,19 @@
             "value": "WestEurope"
         },
         "hostingplanname": {
-            "value": "CIaCSTraining-Plan"
+            "value": "BauravCIaCSTraining-Plan"
         },
         "webappname": {
-            "value": "CIaCSTraining-Site"
+            "value": "BauravCIaCSTraining-Site"
         },
         "apiname": {
-            "value": "CIaCSTraining-Api"
+            "value": "BauravCIaCSTraining-Api"
         },
         "sqlservername": {
-            "value": "CIaCSTraining-Sql"
+            "value": "BauravCIaCSTraining-Sql"
         },
         "databasename": {
-            "value": "ciacstrainingdb"
+            "value": "bauravciacstrainingdb"
         },
         "skuName": {
             "value": "F1"
